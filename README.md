@@ -1,2 +1,2 @@
-# COMPETITION_TEAM_6
+# BIGMART SALES PREDICTION
 Big Mart Sales Prediction
